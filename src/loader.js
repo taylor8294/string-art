@@ -18,7 +18,7 @@ async function loadScript(filename, type='text/javascript'){
 loadScriptsOneAfterAnother([
     'Error.js',
     'Helpers/Utils.js',
-    'Helpers/URL.js',
+    'Helpers/Url.js',
     'Helpers/Events.js',
     'Helpers/Cache.js',
     'Helpers/Storage.js',
